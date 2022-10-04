@@ -1,1 +1,1 @@
-# Epic-Archery---5.0
+# Project Template 26
